@@ -9,5 +9,6 @@ RENCANA HIKING WPU
 - SINDORO
    ^ Tahun Baru
 - PRAU
+   ^Camp
 - SEMERU
 - KERINCI
